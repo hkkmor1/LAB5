@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "title": "L Theme (Death Note)",
+    "category": "anime",
+    "audio_url": "/sounds/l-theme.mp3",
+    "hotkey": "KeyL",
+    "color": "info",
+    "play_count": 50,
+    "is_favorite": true,
+    "created_at": "2026-11-18T10:40:00.000Z"
+  }
+]
