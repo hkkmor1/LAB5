@@ -1,4 +1,3 @@
 export const RouteNamesMap = {
-  HOME: 'SoundboardHome',
-  LOGIN: 'Login'
+  HOME: 'SoundboardHome'
 } as const;

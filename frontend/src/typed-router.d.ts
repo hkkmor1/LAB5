@@ -30,13 +30,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    'Login': RouteRecordInfo<
-      'Login',
-      '/login',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
   }
 
   /**
@@ -53,12 +46,6 @@ declare module 'vue-router/auto-routes' {
     'src/pages/index.vue': {
       routes:
         | 'SoundboardHome'
-      views:
-        | never
-    }
-    'src/pages/login.vue': {
-      routes:
-        | 'Login'
       views:
         | never
     }
